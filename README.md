@@ -4,8 +4,8 @@
     Oi Tudo bem? Eu sou o 
     <a href="https://www.linkedin.com/in/matheus-sousa-8b88a0266/">Matheus Sousa 😃️</a>
   </h1>
-      />
-    </a>  
+      
+      
   </p>
 </div>
 
